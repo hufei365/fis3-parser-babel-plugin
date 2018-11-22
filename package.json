@@ -1,0 +1,22 @@
+{
+  "name": "fis3-parser-babel-plugin",
+  "version": "1.0.0",
+  "description": "A plugin for fis3 and to tranlate es6 to es5.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fis3",
+    "babel",
+    "es6"
+  ],
+  "author": "hufei365",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-env": "^1.7.0",
+    "extend": "^3.0.2"
+  }
+}
